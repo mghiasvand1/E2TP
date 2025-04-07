@@ -11,7 +11,7 @@ Element to Tuple Prompting (E2TP)
 ## 🎯 Results
 
 <div align="center">
-<h2>Task-specific</h2><br>
+<h2>Dataset-specific</h2><br>
 
 ![In-domain task-specific Results](https://github.com/mghiasvand1/E2TP/blob/main/images/in_domain_task_specific_results.png?raw=true)
 
