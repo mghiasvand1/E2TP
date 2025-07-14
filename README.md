@@ -6,10 +6,12 @@ Generative approaches have significantly influenced Aspect-Based Sentiment Analy
 ### Citation
 If you find our paper useful for your work or research, please kindly cite it:
 ```
-@article{mohammadkhani2024e2tp,
+@article{mohammadkhani2025e2tp,
   title={E2TP: Element to Tuple Prompting Improves Aspect Sentiment Tuple Prediction},
   author={Mohammadkhani, Mohammad Ghiasvand and Ranjbar, Niloofar and Momtazi, Saeedeh},
-  journal={arXiv preprint arXiv:2405.06454},
-  year={2024}
+  journal={Neural Networks},
+  pages={107847},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
